@@ -1,0 +1,401 @@
+Student_ID,Name,Age,Gender,Department,Residence,Guardian,Family_Income,CAT1_Marks,CAT2_Marks,Model_Exam_Marks,Average_Marks,Attendance_Percent,Previous_Arrears,Fees_Status,Internet_Access
+S0001,Arjun Venkatesan,20,Male,Electronics,Hostel,Father,High,23.5,17.0,45.8,42.27,77.2,2,Paid,Yes
+S0002,Arjun Raj,19,Male,Electronics,Hostel,Guardian,Low,31.6,29.6,73.8,65.4,84.1,0,Not Paid,Yes
+S0003,Priya Annamalai,19,Female,Civil,Day Scholar,Mother,Low,16.7,21.8,32.4,36.47,57.3,0,Not Paid,Yes
+S0004,Hema Natarajan,20,Female,Computer Science,Day Scholar,Guardian,Low,44.0,34.3,66.2,74.27,86.2,0,Partially Paid,No
+S0005,Oviya Krishnan,23,Female,Computer Science,Hostel,Guardian,Low,38.9,43.3,72.7,79.03,81.9,1,Not Paid,No
+S0006,Divya Balasubramanian,23,Female,Mechanical,Hostel,Mother,Medium,30.3,16.4,38.8,44.07,47.8,4,Paid,Yes
+S0007,Senthil Venkatesan,19,Male,Electronics,Day Scholar,Mother,Medium,40.8,42.4,70.8,79.07,90.9,0,Partially Paid,Yes
+S0008,Gopal Durai,18,Male,Mechanical,Day Scholar,Mother,Low,15.8,16.0,30.8,31.47,80.5,3,Not Paid,Yes
+S0009,Indhu Periasamy,23,Female,Civil,Hostel,Mother,Low,19.9,10.6,47.9,36.3,49.8,1,Partially Paid,Yes
+S0010,Hema Krishnan,19,Female,Information Technology,Day Scholar,Father,Low,43.8,34.2,69.4,75.13,90.0,0,Paid,Yes
+S0011,Lokesh Pandian,22,Male,Civil,Day Scholar,Guardian,Low,37.4,32.0,56.8,65.2,75.6,2,Paid,No
+S0012,Nithya Rajan,21,Female,Electronics,Day Scholar,Father,High,37.1,39.1,76.3,76.23,94.3,0,Paid,Yes
+S0013,Ilavarasan Durai,23,Male,Information Technology,Hostel,Father,Medium,44.4,34.9,82.6,80.4,87.1,0,Paid,Yes
+S0014,Udhay Subramaniam,21,Male,Computer Science,Hostel,Mother,Medium,15.3,22.3,50.4,41.87,71.3,2,Paid,Yes
+S0015,Kavya Annamalai,22,Female,Electronics,Hostel,Guardian,Medium,39.6,40.8,82.7,81.17,93.9,0,Paid,Yes
+S0016,Senthil Annamalai,23,Male,Electronics,Day Scholar,Mother,High,30.1,29.9,46.9,55.63,68.4,0,Paid,Yes
+S0017,Rahul Subramaniam,18,Male,Information Technology,Hostel,Guardian,Low,25.7,27.5,37.1,47.83,72.0,0,Not Paid,Yes
+S0018,Jagan Raj,22,Male,Electronics,Day Scholar,Guardian,Medium,22.5,13.5,42.3,38.1,77.4,4,Paid,Yes
+S0019,Chitra Annamalai,21,Female,Civil,Hostel,Father,Low,32.8,40.4,31.8,59.4,84.6,0,Partially Paid,No
+S0020,Santhosh Kumar,21,Male,Mechanical,Hostel,Father,Low,20.6,15.9,39.1,37.37,42.1,1,Partially Paid,Yes
+S0021,Rahul Balasubramanian,22,Male,Computer Science,Hostel,Guardian,High,42.1,43.4,91.8,87.6,86.4,1,Partially Paid,No
+S0022,Manoj Balasubramanian,21,Male,Electronics,Day Scholar,Father,Low,28.1,28.0,67.2,59.8,80.6,0,Not Paid,No
+S0023,Eswari Pandian,23,Female,Information Technology,Day Scholar,Father,Low,29.8,34.1,59.0,62.27,85.7,1,Not Paid,Yes
+S0024,Deepa Kumar,22,Female,Civil,Hostel,Father,High,15.1,15.7,33.3,31.63,47.4,2,Paid,Yes
+S0025,Lokesh Raj,22,Male,Electronics,Hostel,Guardian,Low,34.8,32.6,58.1,64.3,76.1,0,Partially Paid,No
+S0026,Jagan Krishnan,20,Male,Civil,Hostel,Guardian,High,24.5,28.5,54.6,53.53,71.6,1,Paid,Yes
+S0027,Padmavathi Natarajan,18,Female,Computer Science,Hostel,Guardian,Medium,18.9,20.8,60.6,46.67,63.7,0,Paid,Yes
+S0028,Anitha Balasubramanian,22,Female,Mechanical,Hostel,Guardian,High,34.5,30.6,38.8,56.33,77.8,3,Paid,Yes
+S0029,Santhosh Venkatesan,22,Male,Electronics,Day Scholar,Mother,High,20.4,35.2,35.7,48.97,65.0,2,Paid,No
+S0030,Divya Periasamy,18,Female,Computer Science,Day Scholar,Mother,Low,19.8,9.8,51.7,36.97,69.5,2,Not Paid,Yes
+S0031,Nandhini Venkatesan,21,Female,Information Technology,Hostel,Father,Low,46.2,38.4,91.2,86.8,82.0,0,Partially Paid,Yes
+S0032,Oviya Selvan,19,Female,Civil,Hostel,Father,Medium,36.5,44.1,48.1,69.77,73.5,3,Not Paid,Yes
+S0033,Bhavani Shanmugam,19,Female,Computer Science,Day Scholar,Guardian,Medium,43.4,40.0,67.6,78.13,89.3,1,Partially Paid,Yes
+S0034,Arun Periasamy,21,Male,Computer Science,Hostel,Guardian,Medium,38.8,43.9,72.6,79.33,96.7,0,Paid,No
+S0035,Harish Murugan,23,Male,Computer Science,Day Scholar,Father,Medium,14.5,15.7,47.8,36.07,49.7,1,Partially Paid,Yes
+S0036,Gopal Kumar,23,Male,Electronics,Day Scholar,Mother,Medium,43.9,47.2,67.1,83.1,89.9,0,Not Paid,Yes
+S0037,Nandhini Subramaniam,18,Female,Computer Science,Day Scholar,Father,High,44.0,45.1,70.1,82.77,82.4,0,Paid,Yes
+S0038,Janani Natarajan,22,Female,Computer Science,Day Scholar,Guardian,Low,36.1,32.8,60.5,66.1,80.8,0,Not Paid,No
+S0039,Kiran Pandian,18,Male,Mechanical,Day Scholar,Guardian,Low,28.9,32.4,60.9,61.17,72.3,0,Partially Paid,Yes
+S0040,Eswari Selvan,19,Female,Electronics,Day Scholar,Guardian,Medium,44.2,33.8,46.1,67.37,83.3,1,Not Paid,Yes
+S0041,Ilavarasan Rajan,19,Male,Civil,Day Scholar,Mother,Medium,27.2,35.7,69.6,65.13,71.4,0,Paid,No
+S0042,Rahul Rajan,22,Male,Information Technology,Day Scholar,Father,Low,38.8,33.5,66.2,70.27,93.2,0,Paid,Yes
+S0043,Prasath Natarajan,18,Male,Civil,Day Scholar,Guardian,High,18.3,12.7,27.3,29.77,53.8,1,Paid,Yes
+S0044,Santhosh Annamalai,21,Male,Electronics,Hostel,Guardian,High,32.5,33.0,60.8,63.93,84.6,2,Paid,Yes
+S0045,Naveen Shanmugam,22,Male,Information Technology,Day Scholar,Mother,High,43.1,47.8,77.9,86.57,100.0,0,Partially Paid,No
+S0046,Anitha Venkatesan,21,Female,Civil,Day Scholar,Father,High,36.8,25.9,47.3,57.57,81.9,0,Paid,Yes
+S0047,Kavya Venkatesan,20,Female,Electronics,Day Scholar,Mother,Medium,42.1,44.9,83.8,85.93,88.6,0,Paid,Yes
+S0048,Deepak Raj,21,Male,Civil,Day Scholar,Guardian,Medium,27.9,21.9,53.5,51.03,84.9,0,Paid,No
+S0049,Tamizh Pandian,21,Male,Computer Science,Day Scholar,Mother,Medium,43.9,37.0,81.4,81.07,90.9,0,Not Paid,No
+S0050,Prasath Krishnan,20,Male,Civil,Day Scholar,Father,Medium,27.7,31.9,58.6,59.27,68.9,0,Partially Paid,Yes
+S0051,Sowmya Natarajan,22,Female,Computer Science,Day Scholar,Guardian,High,35.1,34.4,68.8,69.27,86.4,0,Paid,No
+S0052,Karthik Rajan,21,Male,Mechanical,Hostel,Mother,Medium,24.7,25.4,63.2,54.47,82.1,0,Partially Paid,No
+S0053,Divya Durai,18,Female,Civil,Hostel,Guardian,High,23.6,38.0,44.9,56.03,73.4,1,Partially Paid,Yes
+S0054,Arjun Krishnan,19,Male,Computer Science,Hostel,Father,Low,38.7,34.9,54.8,67.33,84.1,3,Paid,Yes
+S0055,Hema Murugan,22,Female,Information Technology,Hostel,Father,Medium,14.6,16.3,32.2,31.33,62.8,1,Paid,Yes
+S0056,Indhu Venkatesan,19,Female,Computer Science,Hostel,Father,High,50.0,34.5,85.5,84.83,80.9,0,Partially Paid,Yes
+S0057,Kiran Selvan,21,Male,Mechanical,Hostel,Guardian,High,30.2,37.5,58.6,64.67,69.4,2,Paid,Yes
+S0058,Keerthana Venkatesan,19,Female,Civil,Hostel,Guardian,High,40.1,44.7,74.2,81.27,90.1,0,Paid,Yes
+S0059,Keerthana Pandian,23,Female,Information Technology,Day Scholar,Mother,Low,43.2,39.4,97.2,87.47,92.2,1,Paid,Yes
+S0060,Oviya Natarajan,23,Female,Civil,Day Scholar,Father,Medium,34.9,42.7,74.7,76.63,93.3,0,Paid,No
+S0061,Divya Periasamy,22,Female,Mechanical,Hostel,Guardian,Low,14.5,17.2,44.1,35.83,70.7,1,Not Paid,No
+S0062,Lavanya Balasubramanian,18,Female,Computer Science,Day Scholar,Father,Medium,25.8,29.0,53.3,54.3,72.8,1,Paid,Yes
+S0063,Janani Venkatesan,22,Female,Mechanical,Day Scholar,Guardian,Medium,43.6,33.4,45.4,66.47,85.3,0,Paid,Yes
+S0064,Senthil Annamalai,23,Male,Electronics,Hostel,Father,High,45.7,37.2,42.8,69.53,74.1,3,Paid,Yes
+S0065,Nithya Durai,19,Female,Mechanical,Hostel,Mother,Low,40.6,26.8,62.4,65.73,84.2,0,Not Paid,Yes
+S0066,Senthil Rajan,23,Male,Electronics,Day Scholar,Father,Low,27.4,30.6,30.0,48.67,69.8,0,Partially Paid,Yes
+S0067,Harish Durai,21,Male,Computer Science,Hostel,Mother,Medium,18.2,9.3,57.6,37.53,47.7,0,Partially Paid,Yes
+S0068,Kavya Krishnan,18,Female,Information Technology,Day Scholar,Guardian,High,41.2,42.5,91.5,86.3,81.8,0,Paid,Yes
+S0069,Eswari Durai,22,Female,Civil,Day Scholar,Guardian,High,28.1,18.1,26.2,39.53,66.6,0,Partially Paid,No
+S0070,Harish Shanmugam,18,Male,Electronics,Hostel,Father,High,21.4,13.8,38.8,36.4,58.1,1,Paid,Yes
+S0071,Deepa Krishnan,20,Female,Mechanical,Day Scholar,Father,High,20.8,22.6,57.0,47.93,49.6,3,Paid,Yes
+S0072,Manoj Raj,22,Male,Electronics,Hostel,Mother,Low,34.9,4.3,36.2,38.2,67.9,1,Paid,No
+S0073,Keerthana Raj,21,Female,Mechanical,Day Scholar,Mother,High,34.7,27.3,55.9,59.97,74.1,1,Paid,No
+S0074,Padmavathi Rajan,18,Female,Computer Science,Hostel,Guardian,High,29.5,36.1,61.6,64.27,72.5,1,Paid,No
+S0075,Arun Balasubramanian,22,Male,Civil,Day Scholar,Father,High,38.4,32.8,66.1,69.5,83.0,3,Paid,Yes
+S0076,Gayathri Subramaniam,23,Female,Computer Science,Hostel,Mother,Medium,28.0,27.6,65.5,58.9,82.9,3,Paid,No
+S0077,Naveen Raj,20,Male,Mechanical,Day Scholar,Father,Medium,42.9,42.5,90.2,87.0,86.0,0,Partially Paid,No
+S0078,Janani Kumar,19,Female,Information Technology,Day Scholar,Guardian,Medium,36.3,29.8,55.8,62.67,86.8,0,Partially Paid,Yes
+S0079,Keerthana Periasamy,23,Female,Civil,Hostel,Father,High,38.0,35.9,71.1,72.97,78.2,0,Paid,Yes
+S0080,Kavya Krishnan,18,Female,Civil,Hostel,Guardian,Low,37.1,29.1,61.2,64.53,77.0,0,Not Paid,Yes
+S0081,Lavanya Krishnan,21,Female,Information Technology,Hostel,Mother,Low,43.4,44.4,73.5,83.03,99.5,1,Partially Paid,No
+S0082,Janani Subramaniam,22,Female,Mechanical,Hostel,Mother,High,27.0,23.7,69.6,57.0,84.3,4,Paid,Yes
+S0083,Naveen Selvan,21,Male,Mechanical,Day Scholar,Guardian,High,36.7,34.8,57.9,66.97,70.8,2,Partially Paid,No
+S0084,Tamizh Pandian,19,Male,Civil,Hostel,Mother,High,33.5,26.9,67.8,62.87,76.8,0,Partially Paid,No
+S0085,Prasath Kumar,19,Male,Information Technology,Day Scholar,Father,Medium,14.2,15.8,43.0,34.33,56.4,0,Not Paid,Yes
+S0086,Rahul Balasubramanian,20,Male,Mechanical,Day Scholar,Guardian,Low,39.7,43.0,82.0,82.47,86.5,1,Not Paid,Yes
+S0087,Lavanya Durai,22,Female,Computer Science,Hostel,Father,High,30.2,32.4,43.5,56.23,66.7,0,Paid,Yes
+S0088,Santhosh Balasubramanian,19,Male,Mechanical,Hostel,Father,Medium,40.1,41.1,82.5,81.63,96.4,0,Paid,Yes
+S0089,Oviya Shanmugam,19,Female,Electronics,Hostel,Father,High,46.4,41.4,79.8,85.13,84.0,0,Paid,No
+S0090,Gopal Balasubramanian,23,Male,Mechanical,Day Scholar,Mother,High,19.9,16.0,41.9,37.9,53.7,4,Paid,Yes
+S0091,Rahul Balasubramanian,20,Male,Information Technology,Day Scholar,Guardian,Medium,36.1,40.2,56.9,69.83,81.2,0,Paid,No
+S0092,Nithya Krishnan,21,Female,Information Technology,Day Scholar,Guardian,Medium,45.8,40.4,81.8,84.73,89.1,2,Paid,Yes
+S0093,Priya Natarajan,23,Female,Computer Science,Day Scholar,Mother,Low,33.6,26.4,58.2,59.4,82.0,1,Partially Paid,Yes
+S0094,Santhosh Periasamy,23,Male,Computer Science,Day Scholar,Mother,Low,41.7,36.8,79.5,78.83,71.9,0,Not Paid,Yes
+S0095,Anitha Krishnan,19,Female,Information Technology,Day Scholar,Guardian,High,46.5,42.7,97.5,91.97,85.0,0,Paid,No
+S0096,Eswari Venkatesan,20,Female,Computer Science,Day Scholar,Father,Low,39.6,39.6,63.0,73.8,86.4,0,Paid,Yes
+S0097,Nandhini Subramaniam,18,Female,Civil,Hostel,Mother,High,14.7,19.1,42.1,36.57,80.8,2,Paid,Yes
+S0098,Hema Raj,23,Female,Electronics,Day Scholar,Father,High,46.8,39.7,72.8,81.93,91.5,1,Paid,Yes
+S0099,Naveen Periasamy,23,Male,Mechanical,Day Scholar,Father,Low,10.8,30.8,52.2,45.13,57.3,4,Paid,Yes
+S0100,Senthil Murugan,21,Male,Civil,Day Scholar,Guardian,High,22.7,39.1,56.9,60.17,87.9,1,Paid,No
+S0101,Nithya Durai,21,Female,Information Technology,Day Scholar,Mother,Low,23.4,27.4,58.1,53.23,78.4,0,Paid,Yes
+S0102,Nithya Shanmugam,20,Female,Information Technology,Day Scholar,Father,Medium,30.3,34.7,47.3,59.1,76.9,3,Not Paid,No
+S0103,Deepak Shanmugam,23,Male,Information Technology,Hostel,Father,Medium,20.8,21.6,46.5,43.77,50.8,2,Paid,Yes
+S0104,Tamizh Krishnan,19,Male,Mechanical,Hostel,Guardian,Low,23.8,38.7,61.3,62.1,72.0,4,Not Paid,Yes
+S0105,Santhosh Shanmugam,18,Male,Electronics,Hostel,Mother,Low,42.3,31.7,69.8,72.6,78.5,0,Paid,Yes
+S0106,Meena Raj,23,Female,Computer Science,Day Scholar,Mother,Medium,45.4,41.5,55.5,76.43,85.8,0,Paid,No
+S0107,Ramesh Rajan,21,Male,Computer Science,Hostel,Mother,Medium,36.9,39.2,48.4,66.87,83.5,1,Paid,Yes
+S0108,Jagan Natarajan,19,Male,Computer Science,Hostel,Mother,High,39.4,20.4,46.2,55.27,61.7,0,Paid,No
+S0109,Keerthana Selvan,22,Female,Civil,Hostel,Guardian,Low,41.9,44.9,92.0,88.53,89.4,0,Partially Paid,No
+S0110,Manoj Balasubramanian,19,Male,Civil,Day Scholar,Mother,Medium,42.8,22.7,41.0,57.33,77.6,0,Paid,Yes
+S0111,Sowmya Shanmugam,21,Female,Computer Science,Hostel,Father,Low,35.3,30.8,37.3,56.5,77.3,0,Not Paid,Yes
+S0112,Tamizh Selvan,22,Male,Mechanical,Hostel,Mother,Medium,37.8,44.7,82.9,82.63,84.3,0,Not Paid,No
+S0113,Ilavarasan Natarajan,20,Male,Mechanical,Hostel,Guardian,High,16.4,10.6,37.2,30.4,71.6,1,Paid,Yes
+S0114,Nithya Annamalai,20,Female,Information Technology,Hostel,Mother,High,39.1,44.0,75.8,80.67,85.0,0,Paid,Yes
+S0115,Udhay Periasamy,23,Male,Mechanical,Hostel,Father,Medium,32.4,24.8,52.5,55.63,68.4,0,Paid,Yes
+S0116,Tamizh Shanmugam,21,Male,Computer Science,Hostel,Guardian,High,50.0,42.1,74.4,86.2,90.1,0,Paid,Yes
+S0117,Gayathri Murugan,20,Female,Mechanical,Day Scholar,Guardian,High,19.2,16.5,45.4,38.93,69.6,0,Paid,Yes
+S0118,Harish Balasubramanian,23,Male,Civil,Day Scholar,Guardian,Medium,29.8,27.5,55.2,56.6,59.6,0,Paid,Yes
+S0119,Ilavarasan Shanmugam,23,Male,Information Technology,Day Scholar,Guardian,High,23.9,39.2,74.4,66.87,76.0,4,Paid,Yes
+S0120,Ilavarasan Krishnan,19,Male,Mechanical,Day Scholar,Mother,Low,24.0,20.2,74.9,54.43,73.2,0,Not Paid,Yes
+S0121,Ramesh Selvan,23,Male,Mechanical,Hostel,Mother,High,19.1,11.3,18.7,26.5,64.0,4,Paid,No
+S0122,Oviya Pandian,23,Female,Civil,Day Scholar,Father,Medium,14.7,8.0,30.2,25.2,51.2,3,Paid,Yes
+S0123,Kavya Pandian,18,Female,Electronics,Day Scholar,Guardian,Medium,43.1,36.3,57.9,72.23,89.8,0,Paid,Yes
+S0124,Anitha Raj,22,Female,Computer Science,Hostel,Mother,Medium,33.5,25.8,73.2,63.93,82.3,2,Partially Paid,Yes
+S0125,Harish Krishnan,19,Male,Information Technology,Hostel,Guardian,Low,12.7,16.7,27.5,28.77,48.2,1,Not Paid,No
+S0126,Oviya Shanmugam,23,Female,Information Technology,Day Scholar,Guardian,Medium,26.5,31.4,21.2,45.67,67.6,1,Paid,Yes
+S0127,Oviya Kumar,20,Female,Information Technology,Hostel,Mother,Medium,29.1,28.1,52.1,55.5,71.1,2,Paid,Yes
+S0128,Udhay Natarajan,22,Male,Civil,Day Scholar,Guardian,High,43.2,38.7,82.2,82.0,88.7,0,Paid,No
+S0129,Jagan Natarajan,21,Male,Information Technology,Hostel,Father,Medium,18.3,11.6,31.1,30.3,69.6,1,Partially Paid,No
+S0130,Karthik Krishnan,23,Male,Civil,Day Scholar,Guardian,High,36.0,25.1,59.0,60.4,84.0,2,Paid,Yes
+S0131,Padmavathi Kumar,23,Female,Mechanical,Hostel,Mother,Low,23.0,34.3,51.4,55.33,82.6,0,Partially Paid,No
+S0132,Jagan Raj,22,Male,Electronics,Day Scholar,Mother,High,28.4,20.2,41.7,46.3,78.4,1,Paid,No
+S0133,Nandhini Pandian,23,Female,Mechanical,Hostel,Guardian,High,44.0,38.4,85.1,83.3,80.7,0,Paid,Yes
+S0134,Meena Subramaniam,18,Female,Mechanical,Day Scholar,Father,Low,32.6,23.7,51.5,54.7,78.4,0,Not Paid,No
+S0135,Rahul Rajan,18,Male,Information Technology,Hostel,Guardian,Medium,39.6,40.5,88.1,82.77,86.1,0,Partially Paid,Yes
+S0136,Udhay Annamalai,19,Male,Civil,Hostel,Mother,Medium,38.0,24.2,63.3,62.57,89.5,0,Paid,Yes
+S0137,Chitra Selvan,19,Female,Mechanical,Day Scholar,Father,Medium,18.2,26.2,63.8,50.87,76.4,0,Paid,No
+S0138,Meena Selvan,21,Female,Electronics,Hostel,Guardian,Low,44.5,39.6,80.7,82.97,88.2,0,Paid,Yes
+S0139,Ramesh Durai,18,Male,Mechanical,Hostel,Father,Medium,40.0,32.5,61.4,68.8,74.7,2,Paid,Yes
+S0140,Naveen Periasamy,20,Male,Computer Science,Day Scholar,Father,Medium,30.1,28.4,61.9,59.63,74.6,4,Paid,Yes
+S0141,Jagan Periasamy,18,Male,Mechanical,Hostel,Father,Low,34.7,43.5,66.7,74.37,75.4,1,Not Paid,Yes
+S0142,Keerthana Natarajan,18,Female,Computer Science,Hostel,Mother,Low,47.8,40.4,63.7,80.03,84.0,0,Partially Paid,Yes
+S0143,Ilavarasan Krishnan,20,Male,Computer Science,Hostel,Father,Medium,21.8,28.9,58.2,53.2,91.4,0,Partially Paid,No
+S0144,Padmavathi Selvan,18,Female,Information Technology,Hostel,Guardian,Low,35.0,29.7,66.3,65.23,60.3,0,Paid,Yes
+S0145,Rahul Selvan,20,Male,Computer Science,Hostel,Mother,Medium,21.6,23.4,20.3,36.77,73.4,1,Paid,No
+S0146,Kavya Subramaniam,19,Female,Computer Science,Day Scholar,Father,Low,35.0,28.5,64.3,63.77,95.0,1,Partially Paid,No
+S0147,Lavanya Shanmugam,19,Female,Electronics,Hostel,Guardian,Medium,21.3,19.7,32.5,38.17,53.5,3,Paid,No
+S0148,Eswari Selvan,21,Female,Information Technology,Day Scholar,Mother,Low,46.3,38.6,80.6,83.47,86.6,0,Paid,No
+S0149,Divya Raj,20,Female,Civil,Day Scholar,Guardian,Medium,44.9,43.3,88.3,88.23,86.4,2,Paid,Yes
+S0150,Hema Periasamy,22,Female,Mechanical,Hostel,Guardian,Medium,18.1,11.1,32.7,30.37,65.8,3,Partially Paid,Yes
+S0151,Nithya Raj,20,Female,Mechanical,Day Scholar,Mother,High,37.5,25.5,66.7,64.23,88.8,0,Paid,Yes
+S0152,Padmavathi Pandian,20,Female,Computer Science,Hostel,Guardian,High,35.5,42.3,50.3,68.63,68.0,1,Paid,Yes
+S0153,Vikram Durai,22,Male,Civil,Hostel,Father,Low,7.5,28.5,45.9,39.3,61.4,1,Partially Paid,No
+S0154,Udhay Murugan,23,Male,Civil,Day Scholar,Mother,Medium,44.1,37.5,99.6,87.6,89.6,0,Paid,Yes
+S0155,Chitra Raj,18,Female,Electronics,Day Scholar,Guardian,Medium,43.4,44.9,83.8,86.8,90.1,0,Paid,No
+S0156,Udhay Rajan,23,Male,Civil,Hostel,Father,Low,39.8,43.9,95.1,87.5,95.7,1,Partially Paid,Yes
+S0157,Jagan Shanmugam,20,Male,Computer Science,Day Scholar,Mother,Low,42.6,27.9,48.1,63.03,77.0,1,Not Paid,No
+S0158,Santhosh Krishnan,19,Male,Electronics,Day Scholar,Father,Medium,33.3,37.6,41.1,60.97,90.2,2,Paid,Yes
+S0159,Rahul Rajan,21,Male,Civil,Day Scholar,Mother,High,18.9,15.0,25.9,31.23,45.5,2,Not Paid,Yes
+S0160,Sowmya Periasamy,22,Female,Information Technology,Hostel,Father,Medium,37.9,31.4,45.1,61.23,67.6,2,Partially Paid,Yes
+S0161,Anitha Murugan,20,Female,Electronics,Day Scholar,Guardian,Medium,41.7,48.7,77.9,86.23,81.5,0,Paid,Yes
+S0162,Ilavarasan Natarajan,22,Male,Computer Science,Hostel,Guardian,High,18.3,16.1,10.0,26.27,61.5,2,Paid,Yes
+S0163,Arjun Raj,18,Male,Information Technology,Day Scholar,Guardian,Low,42.1,44.8,94.8,89.53,94.6,0,Partially Paid,Yes
+S0164,Eswari Balasubramanian,19,Female,Civil,Day Scholar,Mother,Low,31.4,24.4,83.7,65.1,78.5,0,Paid,Yes
+S0165,Padmavathi Murugan,20,Female,Mechanical,Day Scholar,Mother,Low,43.1,41.9,81.6,83.87,88.3,0,Partially Paid,Yes
+S0166,Harish Balasubramanian,19,Male,Electronics,Hostel,Father,Medium,40.7,39.8,79.7,80.23,86.3,0,Partially Paid,No
+S0167,Jagan Periasamy,22,Male,Mechanical,Hostel,Father,Medium,40.1,42.4,78.0,81.0,96.5,1,Paid,Yes
+S0168,Lokesh Selvan,21,Male,Electronics,Hostel,Guardian,Medium,5.0,25.6,53.0,38.07,41.3,2,Paid,No
+S0169,Eswari Selvan,18,Female,Computer Science,Day Scholar,Father,Medium,30.9,28.8,43.9,54.43,71.8,0,Partially Paid,Yes
+S0170,Kiran Selvan,20,Male,Computer Science,Day Scholar,Guardian,Medium,38.6,49.0,87.5,87.57,95.4,2,Paid,Yes
+S0171,Vikram Raj,21,Male,Mechanical,Day Scholar,Guardian,Medium,45.9,37.5,75.8,80.87,91.4,0,Paid,Yes
+S0172,Karthik Murugan,23,Male,Mechanical,Day Scholar,Guardian,Medium,11.4,23.0,35.1,34.63,58.3,0,Partially Paid,No
+S0173,Anitha Pandian,22,Female,Mechanical,Day Scholar,Guardian,High,37.3,33.7,54.4,65.47,87.3,0,Paid,No
+S0174,Gayathri Shanmugam,18,Female,Civil,Day Scholar,Guardian,High,26.5,34.7,63.9,62.1,75.5,0,Paid,Yes
+S0175,Karthik Natarajan,21,Male,Electronics,Day Scholar,Father,High,22.3,9.2,49.1,37.37,60.2,2,Paid,Yes
+S0176,Gayathri Pandian,19,Female,Civil,Hostel,Mother,High,40.9,46.2,74.4,82.87,82.0,1,Partially Paid,No
+S0177,Vikram Selvan,19,Male,Information Technology,Day Scholar,Guardian,Medium,23.7,34.6,45.2,53.93,92.0,0,Paid,No
+S0178,Nandhini Subramaniam,23,Female,Mechanical,Day Scholar,Father,Low,20.5,41.2,60.1,61.17,77.2,3,Paid,No
+S0179,Bhavani Venkatesan,23,Female,Civil,Day Scholar,Mother,Medium,29.7,33.4,57.6,61.27,86.8,1,Not Paid,Yes
+S0180,Indhu Durai,20,Female,Electronics,Day Scholar,Father,Medium,43.5,42.6,77.1,83.1,88.7,1,Paid,Yes
+S0181,Bhavani Krishnan,22,Female,Mechanical,Day Scholar,Father,Low,34.8,20.7,44.5,51.83,83.9,0,Partially Paid,Yes
+S0182,Gopal Kumar,18,Male,Civil,Day Scholar,Guardian,Medium,21.2,16.7,38.2,38.0,65.5,0,Partially Paid,Yes
+S0183,Manoj Shanmugam,21,Male,Civil,Hostel,Mother,Medium,29.8,26.3,60.0,57.4,70.2,1,Paid,Yes
+S0184,Senthil Venkatesan,23,Male,Computer Science,Hostel,Mother,Low,44.6,35.2,88.2,82.6,91.4,0,Paid,No
+S0185,Ilavarasan Periasamy,18,Male,Computer Science,Day Scholar,Guardian,High,21.8,24.9,58.0,50.47,72.1,1,Not Paid,No
+S0186,Sowmya Durai,22,Female,Civil,Day Scholar,Father,Low,22.0,23.3,51.8,47.47,78.2,1,Not Paid,No
+S0187,Jagan Annamalai,20,Male,Information Technology,Hostel,Father,High,45.1,39.1,81.5,83.3,85.2,0,Partially Paid,Yes
+S0188,Lokesh Shanmugam,18,Male,Electronics,Hostel,Mother,Medium,40.6,36.4,72.6,75.53,82.2,0,Paid,Yes
+S0189,Gayathri Rajan,22,Female,Information Technology,Hostel,Mother,High,27.1,37.3,48.5,59.1,95.0,1,Paid,Yes
+S0190,Lokesh Shanmugam,22,Male,Mechanical,Hostel,Guardian,Medium,36.0,32.1,49.4,61.87,83.6,3,Paid,Yes
+S0191,Padmavathi Subramaniam,21,Female,Information Technology,Day Scholar,Guardian,High,40.7,42.5,100.0,88.8,88.5,0,Paid,Yes
+S0192,Ramesh Balasubramanian,22,Male,Mechanical,Hostel,Guardian,Low,28.0,13.1,37.6,39.93,79.7,2,Partially Paid,Yes
+S0193,Arun Subramaniam,22,Male,Civil,Hostel,Guardian,Low,29.2,41.9,65.1,69.1,73.5,2,Partially Paid,Yes
+S0194,Naveen Murugan,22,Male,Civil,Day Scholar,Guardian,Low,36.8,36.8,64.2,70.47,65.4,0,Partially Paid,Yes
+S0195,Priya Venkatesan,19,Female,Information Technology,Hostel,Father,Medium,28.6,29.5,57.3,57.83,83.0,4,Paid,No
+S0196,Prasath Kumar,20,Male,Civil,Hostel,Father,High,43.7,36.7,83.0,81.27,92.1,0,Paid,No
+S0197,Keerthana Durai,21,Female,Civil,Hostel,Guardian,High,45.2,46.3,86.7,89.9,91.3,1,Paid,Yes
+S0198,Meena Murugan,23,Female,Electronics,Hostel,Father,Medium,32.6,21.0,62.3,56.5,79.7,0,Partially Paid,Yes
+S0199,Gopal Balasubramanian,20,Male,Electronics,Day Scholar,Father,High,44.1,36.9,71.4,77.8,94.3,0,Paid,Yes
+S0200,Gopal Krishnan,18,Male,Computer Science,Hostel,Mother,High,32.8,35.1,58.3,64.7,78.2,0,Partially Paid,Yes
+S0201,Chitra Selvan,19,Female,Computer Science,Hostel,Guardian,Medium,26.6,14.4,39.2,40.4,57.4,2,Not Paid,Yes
+S0202,Chitra Rajan,19,Female,Information Technology,Hostel,Mother,Medium,30.4,29.1,60.2,59.73,74.2,1,Paid,No
+S0203,Manoj Selvan,21,Male,Computer Science,Day Scholar,Guardian,High,40.5,25.6,56.1,62.77,74.5,1,Paid,Yes
+S0204,Indhu Murugan,22,Female,Civil,Hostel,Father,Medium,48.8,42.8,88.3,90.5,81.6,0,Paid,Yes
+S0205,Janani Selvan,22,Female,Electronics,Day Scholar,Father,Medium,21.9,24.2,39.0,43.73,72.7,4,Partially Paid,No
+S0206,Senthil Venkatesan,19,Male,Computer Science,Day Scholar,Mother,High,29.9,39.5,81.0,73.27,75.1,0,Paid,No
+S0207,Prasath Krishnan,20,Male,Mechanical,Hostel,Father,Low,41.2,47.8,92.6,90.2,86.4,3,Paid,Yes
+S0208,Udhay Venkatesan,19,Male,Civil,Hostel,Guardian,Medium,41.3,40.9,69.2,77.87,84.4,0,Paid,Yes
+S0209,Hema Selvan,21,Female,Civil,Hostel,Guardian,Medium,39.0,38.9,79.7,78.5,90.2,0,Paid,Yes
+S0210,Tamizh Durai,19,Male,Electronics,Hostel,Mother,High,49.2,38.0,87.9,87.43,87.9,0,Paid,Yes
+S0211,Chitra Pandian,22,Female,Electronics,Day Scholar,Guardian,High,42.8,44.7,71.0,82.0,90.9,0,Paid,Yes
+S0212,Keerthana Murugan,23,Female,Mechanical,Hostel,Father,High,34.0,34.0,60.9,65.63,95.0,2,Paid,No
+S0213,Ramesh Kumar,18,Male,Computer Science,Hostel,Mother,Low,40.4,39.9,75.0,78.53,86.2,0,Paid,Yes
+S0214,Hema Kumar,22,Female,Information Technology,Day Scholar,Guardian,Medium,15.5,26.3,55.0,46.2,56.3,1,Paid,Yes
+S0215,Nandhini Rajan,18,Female,Information Technology,Day Scholar,Father,Low,39.7,43.9,75.6,80.93,92.2,0,Partially Paid,Yes
+S0216,Hema Rajan,21,Female,Computer Science,Day Scholar,Mother,Medium,34.2,21.9,73.5,61.9,92.4,0,Not Paid,Yes
+S0217,Karthik Raj,21,Male,Civil,Day Scholar,Guardian,Medium,15.7,15.3,41.4,34.47,65.3,0,Paid,Yes
+S0218,Gayathri Natarajan,18,Female,Information Technology,Hostel,Father,Low,45.6,50.0,78.6,89.93,85.0,0,Partially Paid,Yes
+S0219,Harish Periasamy,22,Male,Information Technology,Hostel,Father,Medium,10.3,12.9,37.6,28.0,79.9,0,Paid,No
+S0220,Kavya Rajan,19,Female,Information Technology,Hostel,Guardian,Medium,29.9,32.3,57.8,60.73,87.5,0,Paid,No
+S0221,Ramesh Venkatesan,20,Male,Computer Science,Hostel,Mother,Low,50.0,39.9,76.1,85.3,94.2,0,Partially Paid,No
+S0222,Gayathri Kumar,23,Female,Mechanical,Day Scholar,Mother,Low,37.1,42.1,63.8,74.07,75.1,0,Not Paid,Yes
+S0223,Kavya Annamalai,22,Female,Mechanical,Hostel,Guardian,Low,24.1,25.8,47.8,49.2,67.1,2,Paid,Yes
+S0224,Gayathri Subramaniam,18,Female,Computer Science,Hostel,Mother,Medium,39.4,38.0,71.8,75.53,83.2,0,Paid,Yes
+S0225,Nandhini Selvan,22,Female,Civil,Hostel,Father,Low,32.0,31.9,70.1,65.97,71.5,1,Paid,Yes
+S0226,Priya Rajan,21,Female,Civil,Hostel,Guardian,High,44.5,40.4,80.2,83.33,95.4,0,Not Paid,Yes
+S0227,Anitha Murugan,20,Female,Mechanical,Day Scholar,Mother,Low,21.3,18.3,21.7,33.63,69.5,1,Partially Paid,Yes
+S0228,Kiran Rajan,19,Male,Civil,Hostel,Mother,Low,24.5,33.1,34.3,49.83,64.2,1,Paid,No
+S0229,Gayathri Balasubramanian,20,Female,Civil,Hostel,Mother,Medium,34.5,40.5,57.0,69.0,80.2,0,Partially Paid,Yes
+S0230,Gayathri Rajan,23,Female,Civil,Hostel,Mother,Medium,36.6,32.1,53.5,63.63,79.6,0,Partially Paid,No
+S0231,Tamizh Selvan,19,Male,Information Technology,Hostel,Guardian,Medium,47.3,37.9,81.1,83.83,85.5,0,Paid,No
+S0232,Manoj Shanmugam,21,Male,Electronics,Day Scholar,Father,Medium,40.2,21.9,52.4,58.87,81.0,1,Partially Paid,Yes
+S0233,Oviya Pandian,22,Female,Information Technology,Day Scholar,Guardian,Low,49.3,41.7,75.6,85.87,98.4,1,Partially Paid,Yes
+S0234,Santhosh Annamalai,19,Male,Mechanical,Hostel,Guardian,High,9.9,3.0,43.3,23.03,57.0,2,Not Paid,Yes
+S0235,Janani Raj,18,Female,Computer Science,Day Scholar,Father,High,26.9,35.3,60.4,61.6,73.5,1,Paid,Yes
+S0236,Indhu Balasubramanian,23,Female,Information Technology,Hostel,Mother,Low,25.3,36.2,64.5,62.5,77.2,3,Paid,Yes
+S0237,Kiran Rajan,20,Male,Civil,Hostel,Guardian,Medium,44.1,24.6,42.7,60.03,72.5,1,Paid,Yes
+S0238,Ilavarasan Kumar,23,Male,Computer Science,Hostel,Mother,High,19.7,19.7,35.1,37.97,65.5,4,Paid,No
+S0239,Senthil Murugan,20,Male,Information Technology,Day Scholar,Mother,Low,38.0,47.8,79.3,83.63,94.6,0,Partially Paid,Yes
+S0240,Priya Venkatesan,22,Female,Electronics,Day Scholar,Guardian,Medium,35.1,33.7,63.7,67.1,81.6,0,Partially Paid,No
+S0241,Tamizh Raj,22,Male,Electronics,Day Scholar,Mother,Low,36.9,39.0,60.0,70.6,83.7,2,Paid,Yes
+S0242,Padmavathi Pandian,22,Female,Civil,Hostel,Mother,Medium,42.6,47.8,74.6,85.13,98.0,0,Partially Paid,No
+S0243,Padmavathi Natarajan,18,Female,Electronics,Day Scholar,Father,Low,32.8,22.4,59.3,56.57,72.6,1,Paid,Yes
+S0244,Padmavathi Murugan,22,Female,Civil,Day Scholar,Father,Medium,38.0,27.1,53.5,61.23,62.9,1,Partially Paid,No
+S0245,Prasath Rajan,19,Male,Electronics,Day Scholar,Mother,High,16.8,3.0,19.0,19.53,69.6,0,Paid,Yes
+S0246,Nandhini Selvan,23,Female,Civil,Day Scholar,Guardian,Medium,37.7,33.6,48.3,63.63,77.6,0,Partially Paid,Yes
+S0247,Gopal Rajan,18,Male,Mechanical,Hostel,Guardian,Medium,20.0,9.9,56.0,38.6,70.8,2,Paid,No
+S0248,Tamizh Raj,20,Male,Information Technology,Day Scholar,Guardian,Low,42.1,42.1,81.7,83.37,78.8,0,Partially Paid,Yes
+S0249,Ilavarasan Durai,18,Male,Civil,Day Scholar,Mother,Low,31.5,26.9,48.0,54.93,75.8,1,Not Paid,Yes
+S0250,Padmavathi Shanmugam,21,Female,Electronics,Hostel,Father,Low,50.0,44.6,75.4,88.2,91.9,0,Partially Paid,Yes
+S0251,Jagan Venkatesan,20,Male,Mechanical,Day Scholar,Guardian,High,48.6,45.7,80.5,89.7,85.8,0,Paid,Yes
+S0252,Harish Durai,23,Male,Electronics,Hostel,Father,Low,37.2,33.4,67.0,69.4,83.1,1,Not Paid,Yes
+S0253,Sowmya Natarajan,23,Female,Mechanical,Day Scholar,Mother,Medium,27.3,14.3,53.8,45.67,64.0,3,Partially Paid,Yes
+S0254,Hema Balasubramanian,21,Female,Mechanical,Hostel,Guardian,Low,45.5,26.9,75.4,73.4,79.6,1,Partially Paid,Yes
+S0255,Senthil Pandian,19,Male,Civil,Hostel,Mother,Medium,29.1,28.1,54.8,56.4,81.4,0,Paid,Yes
+S0256,Gayathri Periasamy,23,Female,Computer Science,Hostel,Father,High,45.1,39.7,79.8,83.13,99.7,0,Paid,No
+S0257,Keerthana Kumar,21,Female,Electronics,Hostel,Guardian,Medium,32.1,21.1,38.5,48.3,63.2,1,Not Paid,Yes
+S0258,Kavya Subramaniam,23,Female,Electronics,Hostel,Mother,High,36.7,24.9,55.4,59.53,64.7,0,Paid,Yes
+S0259,Arjun Krishnan,21,Male,Computer Science,Hostel,Guardian,Low,35.4,34.9,53.2,64.6,90.6,0,Partially Paid,Yes
+S0260,Manoj Venkatesan,19,Male,Civil,Hostel,Father,Medium,11.4,7.7,40.7,26.3,72.5,0,Partially Paid,Yes
+S0261,Sowmya Pandian,19,Female,Electronics,Hostel,Guardian,High,31.8,14.8,50.9,48.03,61.6,1,Paid,No
+S0262,Manoj Natarajan,23,Male,Civil,Hostel,Father,Low,18.8,24.2,45.8,43.93,46.2,2,Paid,Yes
+S0263,Gayathri Annamalai,19,Female,Electronics,Day Scholar,Guardian,Low,30.3,27.7,30.5,48.83,66.0,2,Partially Paid,Yes
+S0264,Ilavarasan Krishnan,22,Male,Information Technology,Hostel,Guardian,Medium,36.0,32.6,52.5,63.23,72.6,2,Paid,No
+S0265,Indhu Raj,19,Female,Civil,Hostel,Guardian,Low,42.9,46.7,84.3,87.83,87.1,0,Not Paid,No
+S0266,Hema Selvan,23,Female,Electronics,Day Scholar,Father,Low,37.6,15.0,69.5,58.23,64.1,0,Paid,No
+S0267,Meena Rajan,23,Female,Information Technology,Day Scholar,Mother,High,30.8,24.3,45.1,51.77,87.3,0,Paid,Yes
+S0268,Ilavarasan Raj,22,Male,Electronics,Hostel,Guardian,Medium,30.2,33.1,57.5,61.37,81.8,2,Partially Paid,Yes
+S0269,Ilavarasan Venkatesan,21,Male,Electronics,Hostel,Father,Low,43.3,36.9,88.0,82.8,86.5,0,Paid,Yes
+S0270,Santhosh Kumar,23,Male,Electronics,Hostel,Father,Medium,36.8,40.3,92.0,82.07,93.3,0,Paid,No
+S0271,Kiran Murugan,23,Male,Mechanical,Hostel,Father,Medium,41.6,40.6,77.4,80.6,99.4,0,Paid,No
+S0272,Prasath Balasubramanian,22,Male,Mechanical,Hostel,Mother,High,22.7,21.0,50.4,45.93,64.4,3,Paid,No
+S0273,Gopal Venkatesan,22,Male,Computer Science,Hostel,Father,Low,18.2,16.6,37.1,35.57,61.6,4,Partially Paid,Yes
+S0274,Senthil Annamalai,23,Male,Civil,Hostel,Mother,Low,37.4,31.3,65.3,67.57,77.4,0,Not Paid,Yes
+S0275,Nithya Selvan,23,Female,Computer Science,Hostel,Father,High,43.3,34.0,87.3,80.63,90.7,0,Partially Paid,Yes
+S0276,Eswari Subramaniam,18,Female,Information Technology,Day Scholar,Father,Medium,27.0,3.0,63.1,41.03,60.6,1,Paid,Yes
+S0277,Hema Natarajan,21,Female,Electronics,Hostel,Father,Low,47.4,37.8,84.9,85.1,83.7,0,Paid,Yes
+S0278,Jagan Kumar,23,Male,Civil,Day Scholar,Father,Low,29.3,42.5,56.1,66.57,79.7,0,Paid,Yes
+S0279,Harish Raj,18,Male,Electronics,Day Scholar,Guardian,Medium,38.2,34.0,59.5,67.97,80.9,1,Partially Paid,Yes
+S0280,Kavya Natarajan,22,Female,Computer Science,Day Scholar,Guardian,Low,36.8,17.6,40.4,49.73,72.5,1,Paid,No
+S0281,Gayathri Balasubramanian,20,Female,Electronics,Hostel,Father,Low,47.4,46.7,85.1,91.1,83.3,0,Partially Paid,Yes
+S0282,Gayathri Pandian,18,Female,Information Technology,Day Scholar,Father,Medium,42.8,24.1,61.0,64.93,72.0,0,Paid,Yes
+S0283,Padmavathi Kumar,19,Female,Mechanical,Hostel,Father,High,19.6,20.3,41.9,40.57,66.2,2,Paid,Yes
+S0284,Anitha Kumar,21,Female,Civil,Hostel,Father,Medium,31.3,21.2,35.1,46.7,71.6,0,Partially Paid,Yes
+S0285,Vikram Krishnan,21,Male,Mechanical,Hostel,Guardian,High,40.1,23.6,64.0,63.8,83.6,0,Paid,Yes
+S0286,Sowmya Raj,20,Female,Computer Science,Hostel,Mother,Low,17.9,27.6,36.2,42.4,63.3,3,Partially Paid,Yes
+S0287,Lokesh Shanmugam,21,Male,Electronics,Day Scholar,Father,Low,32.0,31.1,47.0,57.73,66.5,0,Partially Paid,Yes
+S0288,Ilavarasan Balasubramanian,21,Male,Information Technology,Day Scholar,Father,Low,42.6,25.9,48.1,61.7,60.8,0,Paid,No
+S0289,Senthil Annamalai,18,Male,Civil,Day Scholar,Mother,High,40.4,36.7,93.1,82.43,94.0,0,Paid,Yes
+S0290,Anitha Kumar,20,Female,Information Technology,Hostel,Father,Medium,15.2,33.8,49.8,49.27,58.8,2,Not Paid,No
+S0291,Arun Raj,19,Male,Electronics,Day Scholar,Guardian,High,5.0,34.0,21.3,33.1,45.5,1,Not Paid,No
+S0292,Hema Periasamy,19,Female,Electronics,Hostel,Guardian,Medium,47.1,50.0,91.1,95.1,91.8,1,Partially Paid,Yes
+S0293,Oviya Natarajan,19,Female,Information Technology,Hostel,Mother,High,36.6,36.1,65.6,70.33,80.2,0,Paid,Yes
+S0294,Arjun Selvan,21,Male,Computer Science,Day Scholar,Guardian,Low,43.4,41.7,74.0,81.4,87.6,0,Partially Paid,No
+S0295,Deepa Kumar,19,Female,Information Technology,Hostel,Father,High,36.2,41.6,72.1,75.9,83.5,0,Partially Paid,No
+S0296,Oviya Raj,20,Female,Mechanical,Day Scholar,Father,Low,34.1,39.4,67.2,71.4,65.4,1,Partially Paid,Yes
+S0297,Anitha Venkatesan,22,Female,Information Technology,Day Scholar,Father,High,27.1,36.6,48.2,58.53,76.2,0,Paid,Yes
+S0298,Arun Venkatesan,18,Male,Information Technology,Day Scholar,Guardian,Low,23.9,11.2,39.3,36.5,48.7,3,Partially Paid,Yes
+S0299,Prasath Murugan,20,Male,Computer Science,Hostel,Mother,Medium,15.8,20.2,18.9,30.3,66.4,0,Partially Paid,No
+S0300,Keerthana Kumar,20,Female,Electronics,Hostel,Guardian,Low,32.9,34.3,60.2,64.87,88.9,1,Not Paid,Yes
+S0301,Janani Murugan,21,Female,Civil,Day Scholar,Mother,High,33.8,28.4,59.2,61.2,82.3,1,Paid,Yes
+S0302,Arun Balasubramanian,18,Male,Computer Science,Day Scholar,Father,Medium,33.3,31.2,51.0,60.0,72.7,0,Paid,No
+S0303,Rahul Selvan,18,Male,Mechanical,Day Scholar,Guardian,Low,24.6,41.5,45.6,59.27,72.5,1,Partially Paid,Yes
+S0304,Santhosh Subramaniam,19,Male,Electronics,Day Scholar,Guardian,High,28.7,36.4,55.1,61.77,88.0,0,Paid,Yes
+S0305,Santhosh Kumar,21,Male,Information Technology,Day Scholar,Father,Low,29.0,32.7,49.6,57.67,95.0,0,Partially Paid,Yes
+S0306,Bhavani Raj,18,Female,Electronics,Hostel,Guardian,Medium,38.2,43.2,85.1,82.63,91.1,0,Paid,No
+S0307,Lavanya Periasamy,23,Female,Mechanical,Hostel,Guardian,High,31.9,30.2,58.4,60.87,76.8,0,Paid,Yes
+S0308,Harish Balasubramanian,21,Male,Mechanical,Hostel,Mother,High,26.7,33.5,31.3,50.57,48.3,2,Paid,Yes
+S0309,Nandhini Pandian,22,Female,Electronics,Hostel,Mother,High,32.5,46.0,50.0,69.0,91.1,2,Paid,Yes
+S0310,Prasath Rajan,18,Male,Civil,Hostel,Guardian,High,49.7,39.8,84.6,87.87,97.1,0,Paid,Yes
+S0311,Naveen Murugan,19,Male,Electronics,Hostel,Father,Low,30.7,29.8,52.2,57.73,69.9,0,Not Paid,No
+S0312,Udhay Rajan,20,Male,Computer Science,Hostel,Mother,High,29.1,23.7,58.3,54.63,71.8,0,Paid,Yes
+S0313,Udhay Natarajan,22,Male,Civil,Hostel,Mother,Low,21.6,7.1,42.0,33.13,70.3,3,Partially Paid,No
+S0314,Tamizh Annamalai,18,Male,Mechanical,Day Scholar,Mother,Medium,21.0,33.2,70.3,59.57,68.3,1,Paid,Yes
+S0315,Indhu Murugan,22,Female,Information Technology,Day Scholar,Father,Medium,49.7,43.7,74.4,87.07,88.7,0,Paid,No
+S0316,Hema Kumar,20,Female,Mechanical,Day Scholar,Mother,Medium,45.2,42.3,84.3,86.43,84.4,2,Partially Paid,Yes
+S0317,Keerthana Annamalai,20,Female,Mechanical,Day Scholar,Guardian,High,21.2,8.1,36.7,31.77,53.0,4,Paid,Yes
+S0318,Meena Durai,20,Female,Computer Science,Hostel,Father,Medium,28.6,38.4,68.9,67.63,82.9,1,Paid,Yes
+S0319,Arun Krishnan,19,Male,Computer Science,Hostel,Father,Medium,12.4,15.8,52.6,36.33,63.4,0,Paid,Yes
+S0320,Meena Pandian,23,Female,Computer Science,Hostel,Father,Medium,46.0,33.4,59.9,72.9,75.5,3,Paid,Yes
+S0321,Hema Murugan,20,Female,Computer Science,Day Scholar,Father,Medium,20.9,16.9,46.5,40.7,71.6,3,Partially Paid,Yes
+S0322,Gopal Shanmugam,19,Male,Mechanical,Day Scholar,Guardian,Low,39.9,36.7,65.3,72.83,91.5,0,Not Paid,Yes
+S0323,Arun Natarajan,18,Male,Electronics,Day Scholar,Guardian,Medium,26.4,18.1,61.9,50.3,95.0,0,Partially Paid,No
+S0324,Keerthana Rajan,19,Female,Civil,Day Scholar,Guardian,High,43.0,45.4,80.7,85.83,88.5,0,Paid,Yes
+S0325,Nandhini Shanmugam,22,Female,Information Technology,Day Scholar,Mother,High,26.4,16.0,41.2,42.0,65.2,4,Paid,Yes
+S0326,Divya Shanmugam,23,Female,Mechanical,Hostel,Father,High,40.3,46.0,78.6,83.73,85.2,0,Partially Paid,No
+S0327,Gayathri Shanmugam,19,Female,Computer Science,Day Scholar,Mother,Medium,45.1,38.4,80.2,82.4,89.0,0,Paid,Yes
+S0328,Jagan Venkatesan,23,Male,Electronics,Day Scholar,Guardian,Medium,39.5,33.8,57.7,68.1,84.5,2,Partially Paid,No
+S0329,Ilavarasan Raj,21,Male,Electronics,Day Scholar,Guardian,High,48.6,44.2,80.1,88.57,82.4,0,Paid,Yes
+S0330,Gopal Subramaniam,19,Male,Mechanical,Day Scholar,Mother,Medium,26.6,29.2,51.9,54.5,76.5,2,Paid,Yes
+S0331,Prasath Periasamy,19,Male,Information Technology,Hostel,Guardian,Medium,33.3,34.2,57.3,64.1,81.9,2,Paid,Yes
+S0332,Jagan Pandian,22,Male,Civil,Hostel,Mother,High,20.5,4.2,26.7,25.37,60.6,1,Paid,No
+S0333,Deepa Kumar,21,Female,Mechanical,Hostel,Father,High,38.2,44.4,92.2,85.8,95.1,0,Paid,Yes
+S0334,Janani Pandian,21,Female,Civil,Day Scholar,Father,Low,31.7,39.9,59.5,67.57,75.3,3,Not Paid,No
+S0335,Arjun Shanmugam,18,Male,Electronics,Hostel,Guardian,Medium,29.3,29.2,54.1,57.03,79.4,0,Paid,Yes
+S0336,Karthik Rajan,20,Male,Civil,Day Scholar,Mother,High,43.6,42.0,83.5,84.9,95.0,1,Paid,Yes
+S0337,Arun Periasamy,21,Male,Computer Science,Hostel,Father,High,46.8,36.1,60.0,75.27,93.7,0,Paid,Yes
+S0338,Kiran Venkatesan,23,Male,Computer Science,Day Scholar,Guardian,Medium,37.5,41.1,70.6,75.93,80.0,0,Partially Paid,Yes
+S0339,Arjun Kumar,23,Male,Computer Science,Day Scholar,Mother,Medium,23.8,23.3,31.1,41.77,36.1,2,Paid,Yes
+S0340,Ilavarasan Pandian,23,Male,Computer Science,Day Scholar,Guardian,High,29.7,33.4,43.2,56.47,79.5,2,Paid,Yes
+S0341,Ilavarasan Raj,18,Male,Civil,Hostel,Guardian,Low,42.9,44.3,81.0,85.13,84.1,2,Not Paid,Yes
+S0342,Eswari Murugan,18,Female,Information Technology,Day Scholar,Father,High,47.8,41.4,79.8,86.07,84.3,0,Paid,Yes
+S0343,Tamizh Shanmugam,21,Male,Electronics,Hostel,Guardian,Low,30.3,25.7,56.3,56.1,91.7,0,Paid,Yes
+S0344,Divya Balasubramanian,18,Female,Computer Science,Hostel,Father,Medium,24.8,21.3,72.7,54.97,76.3,0,Partially Paid,Yes
+S0345,Arjun Durai,19,Male,Electronics,Day Scholar,Mother,Medium,40.3,46.2,75.2,82.73,98.1,0,Paid,Yes
+S0346,Anitha Raj,21,Female,Civil,Day Scholar,Mother,Medium,37.1,28.1,79.6,70.0,73.2,0,Paid,No
+S0347,Santhosh Murugan,23,Male,Computer Science,Hostel,Father,Medium,46.0,43.2,90.4,89.6,96.8,0,Paid,Yes
+S0348,Hema Natarajan,18,Female,Electronics,Day Scholar,Mother,Low,43.1,39.0,83.7,82.63,85.6,0,Partially Paid,Yes
+S0349,Ramesh Annamalai,23,Male,Information Technology,Hostel,Guardian,Medium,45.1,31.8,54.3,69.37,79.5,1,Partially Paid,Yes
+S0350,Prasath Subramaniam,23,Male,Civil,Hostel,Guardian,High,10.6,11.2,52.4,32.0,55.4,0,Paid,No
+S0351,Anitha Raj,21,Female,Mechanical,Hostel,Mother,Medium,12.7,21.8,52.2,40.4,69.2,2,Paid,Yes
+S0352,Rahul Balasubramanian,21,Male,Information Technology,Day Scholar,Father,Medium,39.0,26.5,43.8,58.27,90.0,0,Paid,Yes
+S0353,Lokesh Pandian,18,Male,Information Technology,Hostel,Father,High,41.7,41.0,90.6,85.33,91.8,1,Paid,Yes
+S0354,Gayathri Subramaniam,18,Female,Electronics,Day Scholar,Mother,High,44.8,50.0,74.9,88.17,93.6,0,Paid,Yes
+S0355,Nithya Raj,23,Female,Electronics,Hostel,Mother,Medium,43.2,43.1,92.2,88.27,91.5,0,Not Paid,Yes
+S0356,Karthik Periasamy,19,Male,Civil,Hostel,Guardian,High,36.2,37.4,54.4,67.2,71.3,1,Paid,Yes
+S0357,Bhavani Balasubramanian,19,Female,Mechanical,Hostel,Mother,Low,38.8,34.1,96.4,80.73,83.5,0,Not Paid,No
+S0358,Keerthana Shanmugam,22,Female,Information Technology,Hostel,Mother,Low,31.7,29.3,61.1,61.03,84.5,3,Paid,No
+S0359,Meena Annamalai,19,Female,Information Technology,Hostel,Guardian,Low,26.0,13.9,36.0,38.6,64.8,2,Partially Paid,Yes
+S0360,Janani Natarajan,23,Female,Electronics,Day Scholar,Mother,Medium,42.0,48.4,83.9,88.23,92.7,0,Paid,Yes
+S0361,Nandhini Durai,20,Female,Information Technology,Hostel,Father,Low,37.0,38.0,59.8,69.93,67.6,0,Paid,Yes
+S0362,Ramesh Selvan,23,Male,Mechanical,Hostel,Mother,High,35.4,27.1,52.7,59.23,82.7,1,Paid,Yes
+S0363,Janani Annamalai,18,Female,Information Technology,Hostel,Father,Medium,28.7,18.1,41.7,45.1,79.0,0,Partially Paid,No
+S0364,Ilavarasan Shanmugam,20,Male,Electronics,Hostel,Guardian,Medium,21.7,36.2,44.8,53.53,44.4,1,Paid,Yes
+S0365,Senthil Pandian,19,Male,Information Technology,Day Scholar,Guardian,High,25.3,20.7,53.5,48.5,68.7,1,Paid,No
+S0366,Nandhini Kumar,18,Female,Mechanical,Hostel,Guardian,Medium,42.4,37.1,78.3,79.1,84.7,0,Not Paid,Yes
+S0367,Deepak Rajan,21,Male,Electronics,Hostel,Father,Low,29.5,34.5,74.7,67.57,81.2,0,Paid,Yes
+S0368,Sowmya Murugan,22,Female,Mechanical,Hostel,Mother,Medium,25.8,33.7,70.0,63.0,73.1,0,Paid,Yes
+S0369,Udhay Durai,23,Male,Mechanical,Day Scholar,Guardian,High,32.2,31.1,50.2,58.93,83.2,0,Paid,Yes
+S0370,Ramesh Raj,22,Male,Electronics,Day Scholar,Guardian,High,32.3,33.5,49.1,60.23,74.5,2,Paid,Yes
+S0371,Hema Rajan,19,Female,Information Technology,Day Scholar,Guardian,High,25.1,15.4,58.7,46.57,58.0,1,Paid,No
+S0372,Karthik Shanmugam,20,Male,Civil,Hostel,Mother,Medium,34.3,36.6,43.8,61.87,63.9,2,Paid,No
+S0373,Meena Annamalai,22,Female,Civil,Day Scholar,Father,Medium,36.9,47.1,75.6,81.2,100.0,0,Paid,No
+S0374,Senthil Selvan,18,Male,Computer Science,Hostel,Guardian,High,40.7,42.7,92.3,86.37,99.0,0,Partially Paid,Yes
+S0375,Kavya Venkatesan,23,Female,Electronics,Hostel,Mother,High,45.4,38.3,68.2,78.53,82.7,0,Paid,No
+S0376,Tamizh Durai,19,Male,Mechanical,Day Scholar,Mother,Medium,37.7,27.7,49.8,60.2,78.0,0,Paid,Yes
+S0377,Udhay Raj,23,Male,Information Technology,Hostel,Guardian,Low,32.0,28.3,65.0,61.87,85.6,0,Partially Paid,Yes
+S0378,Ilavarasan Annamalai,21,Male,Civil,Day Scholar,Guardian,Low,33.5,39.9,46.6,64.47,76.5,0,Partially Paid,Yes
+S0379,Sowmya Rajan,23,Female,Mechanical,Hostel,Guardian,High,15.0,4.9,37.0,25.6,60.8,2,Paid,Yes
+S0380,Ilavarasan Krishnan,23,Male,Mechanical,Hostel,Mother,High,49.1,44.5,71.8,86.33,98.3,0,Paid,Yes
+S0381,Bhavani Raj,19,Female,Information Technology,Hostel,Guardian,Medium,40.3,34.5,55.7,68.43,70.3,1,Paid,Yes
+S0382,Tamizh Balasubramanian,20,Male,Mechanical,Hostel,Guardian,High,17.4,25.6,60.6,48.87,77.4,0,Paid,Yes
+S0383,Keerthana Subramaniam,22,Female,Mechanical,Hostel,Guardian,High,30.1,24.3,59.4,56.07,63.9,0,Paid,Yes
+S0384,Gopal Venkatesan,23,Male,Civil,Day Scholar,Mother,Low,34.9,30.1,53.3,61.1,65.2,0,Partially Paid,Yes
+S0385,Lavanya Selvan,18,Female,Electronics,Hostel,Mother,Low,45.1,39.9,70.6,80.2,75.0,0,Paid,Yes
+S0386,Arjun Durai,22,Male,Computer Science,Day Scholar,Guardian,Low,42.9,49.1,93.3,92.43,86.7,0,Partially Paid,No
+S0387,Sowmya Subramaniam,21,Female,Electronics,Day Scholar,Father,Medium,29.4,33.8,48.0,58.13,80.4,0,Paid,Yes
+S0388,Udhay Shanmugam,19,Male,Information Technology,Hostel,Mother,Low,25.4,26.6,36.8,46.93,60.0,2,Not Paid,No
+S0389,Hema Kumar,19,Female,Civil,Hostel,Father,Medium,27.7,26.0,55.7,54.37,80.9,0,Paid,No
+S0390,Indhu Balasubramanian,21,Female,Computer Science,Hostel,Guardian,Medium,26.4,12.4,55.9,44.5,59.3,2,Not Paid,Yes
+S0391,Oviya Selvan,22,Female,Electronics,Day Scholar,Guardian,Medium,32.9,26.5,33.8,50.87,85.1,2,Partially Paid,Yes
+S0392,Chitra Selvan,21,Female,Mechanical,Day Scholar,Mother,Medium,45.9,40.9,80.5,84.7,91.6,1,Paid,Yes
+S0393,Rahul Selvan,23,Male,Mechanical,Hostel,Father,Low,9.1,14.3,47.5,31.43,49.5,3,Partially Paid,Yes
+S0394,Gayathri Venkatesan,18,Female,Civil,Day Scholar,Mother,Low,34.8,22.9,62.7,59.37,77.7,0,Partially Paid,Yes
+S0395,Tamizh Natarajan,19,Male,Electronics,Hostel,Guardian,Low,8.7,26.2,29.2,33.0,53.9,0,Paid,No
+S0396,Ilavarasan Raj,19,Male,Civil,Day Scholar,Mother,Low,21.4,26.0,25.8,40.2,62.6,0,Partially Paid,Yes
+S0397,Udhay Shanmugam,22,Male,Mechanical,Hostel,Guardian,High,35.6,35.2,59.8,67.13,75.1,1,Paid,Yes
+S0398,Sowmya Raj,18,Female,Electronics,Day Scholar,Father,High,14.2,18.6,25.1,30.23,32.8,2,Paid,Yes
+S0399,Rahul Balasubramanian,23,Male,Electronics,Hostel,Guardian,High,35.6,36.4,34.4,59.47,69.9,2,Paid,Yes
+S0400,Chitra Annamalai,21,Female,Civil,Day Scholar,Guardian,High,45.5,50.0,80.2,90.4,85.4,0,Paid,Yes
